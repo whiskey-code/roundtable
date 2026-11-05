@@ -1,0 +1,22 @@
+# Roundtable
+
+Roundtable is a community discussion website inspired by modern social platforms, built with Next.js and PostgreSQL.
+
+## Features
+- User signup and login
+- Community creation
+- Discussion posts
+- Comments
+- Notifications
+- Search and browsing
+
+## Tech Stack
+- Next.js
+- Prisma
+- PostgreSQL
+- Tailwind CSS
+
+## Local Development
+```bash
+npm install
+npm run dev
